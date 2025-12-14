@@ -1,5 +1,5 @@
 {
   "version": "v1.2.0",
-  "download_url": "https://github.com/FearPotatoMine/mirror-tool-go/releases/download/v1.2.0/mirror-tool-go.exe",
+  "download_url": "https://github.com/FearPotatoMine/mirror-tool-go/releases/download/v1.2.0/MirrorSpace.exe",
   "release_notes": "1. ✨ 新增功能\n   - 首页新增“收录软件”统计卡片，资源规模一目了然。\n   - 问题反馈改版，新增官方交流群二维码，扫码反馈更便捷。\n\n2. 💄 体验优化\n   - 优化自动更新体验，隐藏 CMD 黑框实现后台静默更新。\n   - “软仓精选”体验升级：点击卡片自动复制解压密码，并优化了软件名称与功能描述。\n\n3. 🐞 问题修复\n   - 修复 Pip 镜像源配置文件路径错误，解决配置不生效的问题。\n   - 修复自动更新后程序因文件占用导致无法自动重启的问题。"
 }
